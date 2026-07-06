@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 Hi 👋, I'm khyati
+# 💫 Hi 👋, I'm khayati
 **A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
 
 Email Me 👉 ✉️ **khyati.live.1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
