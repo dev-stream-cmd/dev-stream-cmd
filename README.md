@@ -1,6 +1,6 @@
 # 💫 About Me:
 # 💫 Hi 👋, I'm khayati
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+**Mobile app developer || Flutter Enthusiast || Coding**
 
 Email Me 👉 ✉️ **khyati.live.1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
