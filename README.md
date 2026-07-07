@@ -1,8 +1,8 @@
-# 💫 About Me:
 # 💫 Hi 👋, I'm khayati
 **Mobile app developer || Flutter Enthusiast || Coding**
 
 Email Me 👉 ✉️ **khyati.live.1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+# 💫 About Me:
 
 🔭 I'm currently working on: Executing high-performance and scalable Flutter applications. My primary focus is the deep development and optimization of 'XD Rewards', an advanced reward management system engineered to maximize user engagement, streamline complex data flows, and ensure seamless reward distribution.<br>👯 I'm looking to collaborate on: I am actively seeking to collaborate on open-source mobile development initiatives. Specifically, I am interested in projects involving state management in Flutter, complex UI/UX optimizations, and backend-to-mobile integration challenges that require clean, innovative, and robust coding solutions.<br>🤔 I'm looking for help with: I am looking to connect with experienced developers for guidance on advanced software architecture, design patterns for building scalable applications, and best practices to improve code maintainability, testing efficiency, and overall system performance.<br>💬 Ask me about: Feel free to reach out to me regarding the intricacies of cross-platform app development, the technical challenges involved in building reward-based ecosystems, my approach to problem-solving, or the lessons I’ve learned while building software from scratch.<br>🌱 I'm currently learning: I have 1.5 years of experience with Python and I am currently focused on advancing my skills in writing production-ready, efficient code.<br>⚡ Fun fact: I have 1 year of hands-on experience in dedicated mobile app development.
 
